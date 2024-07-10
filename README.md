@@ -30,13 +30,12 @@ During the semester, you will have two quizzes to complete. Each quiz is taken o
 4. You will have the opportunity to edit your responses after completing the Quiz, but this must be completed by the deadline.
 5. You are welcome (even encouraged) to consult the materials provided on the course website, but you are **not** allowed to discuss the questions on the Quizzes with anyone other than Professor Love or the teaching assistants.
 6. We do not guarantee to answer questions we receive about the Quiz less than 3 hours prior to the Quiz submission deadline. 
-7. Quizzes that are more than an hour late will **not** be accepted, except in truly remarkable circumstances.
-8. An answer sketch for each Quiz and Quiz grades will be available 48 hours after the Quiz deadline. 
-9. If you feel Professor Love has made an error in grading your Quiz, please let him know directly, by email, as soon as possible.
+7. Quizzes that are more than 59 minutes late will **not** be accepted, except in truly remarkable circumstances.
 
 ## Grading the Quizzes
 
 - Each quiz is graded solely by Professor Love. A detailed answer sketch and grading rubric will be provided to you when grades are available, usually within 48 hours of the quiz deadline. 
+- If you feel Professor Love has made an error in grading your Quiz, please let him know directly, by email, as soon as possible.
 - In calculating your quiz average for your course grade, Professor Love weights your stronger Quiz performance at 60% and your other Quiz at 40%.
 
 The main website for the Fall 2024 version of the 431 course is found at <https://thomaselove.github.io/431-2024>.
