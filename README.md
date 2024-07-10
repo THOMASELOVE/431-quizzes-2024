@@ -6,10 +6,10 @@ Quiz information for 431 in Fall 2024
 
 All deadlines for all Quizzes are maintained in the [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html).
 
-- You will receive full access to the quiz when the [Calendar](https://thomaselove.github.io/431-2024/calendar.html) says you will, and each quiz is designed to take 4-8 hours to complete, so the time pressure should be minimal.
-- **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, well before the Quiz is released. 
+- You will receive full access to the quiz when the [Calendar](https://thomaselove.github.io/431-2024/calendar.html) says you will, at least 5 days prior to the submission deadline.
+  - Since each quiz is designed to take 4-8 hours to complete, we expect the time pressure to be minimal.
 - Quizzes that are more than 59 minutes late will **not be accepted**, except in truly remarkable circumstances.
-
+- **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, well before the Quiz is released. 
 
 ## Instructions and Materials for Quizzes 1 and 2
 
