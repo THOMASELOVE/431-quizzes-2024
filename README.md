@@ -15,7 +15,7 @@ During the semester, you will have two quizzes to complete. Each quiz is taken o
 
 <div align="center">
 
-| Lab | Instructions | Additional Materials
+| Quiz | Instructions | Additional Materials
 | :---: | :-----------------: | :--------------------------------------------------------------------------------
 1 | Quiz 1 Instructions | *to come*
 2 | Quiz 2 Instructions | *to come*
