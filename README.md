@@ -8,6 +8,8 @@ All deadlines for all Quizzes are maintained in the [Course Calendar](https://th
 
 - You will receive full access to the quiz when the [Calendar](https://thomaselove.github.io/431-2024/calendar.html) says you will, and each quiz is designed to take 4-8 hours to complete, so the time pressure should be minimal.
 - **If you need to make alternate arrangements for a Quiz, please contact Professor Love via email as soon as possible**, well before the Quiz is released. 
+- Quizzes that are more than 59 minutes late will **not be accepted**, except in truly remarkable circumstances.
+
 
 ## Instructions and Materials for Quizzes 1 and 2
 
@@ -30,7 +32,6 @@ During the semester, you will have two quizzes to complete. Each quiz is taken o
 4. You will have the opportunity to edit your responses after completing the Quiz, but this must be completed by the deadline.
 5. You are welcome (even encouraged) to consult the materials provided on the course website, but you are **not** allowed to discuss the questions on the Quizzes with anyone other than Professor Love or the teaching assistants.
 6. We do not guarantee to answer questions we receive about the Quiz less than 3 hours prior to the Quiz submission deadline. 
-7. Quizzes that are more than 59 minutes late will **not** be accepted, except in truly remarkable circumstances.
 
 ## Grading the Quizzes
 
