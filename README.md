@@ -17,10 +17,10 @@ During the semester, you will have two quizzes to complete. Each quiz is taken o
 
 <div align="center">
 
-| Quiz | Instructions | Additional Materials
-| :---: | :-----------------: | :--------------------------------------------------------------------------------
-1 | Quiz 1 Instructions | *to come*
-2 | Quiz 2 Instructions | *to come*
+| Quiz | Instructions and Links to Other Materials
+| :---: | :---------------------------------------------------------------------------
+1 | [Quiz 1 Instructions]
+2 | Quiz 2 Instructions *to come*
 
 </div>
 
