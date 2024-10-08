@@ -10,7 +10,7 @@
 
 In our Shared Drive, in the Quiz 1 Materials folder (and the data subfolder within it), I will provide three data sets that are mentioned in the Quiz and which may be helpful to you.
 
-In addition, another Quiz question uses a specific data file (identified in the Instructions) from [our 431-data page](https://github.com/THOMASELOVE/431-data/tree/main/data-and-code), and that file also has the potential to be useful to you.
+In addition, another Quiz question uses a specific data file (identified in the Instructions) from [our 431-data page](https://github.com/THOMASELOVE/431-data/), and that file also has the potential to be useful to you.
  
 ## Google Form Answer Sheet
 
