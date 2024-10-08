@@ -39,3 +39,7 @@ You will then receive a link at your CWRU email which will allow you to return t
 - the Data and Proposal parts of [Project A](https://thomaselove.github.io/431-projectA-2024/).
 
 This does not mean I will actually address all of these things in the Quiz, and, in fact, I definitely will not.
+
+## Sample Questions
+
+In our Shared Google Drive folder, I've added a folder called Five Old Quiz Questions, which provides you with a PDF and a data set. The PDF gives you five questions from an old quiz as well as an answer sketch. The data set is used in some of those five questions. This is just meant to help worried students think about some of the kinds of questions I might ask on your Quiz 1. There's no requirement that you do anything with the Five Old Quiz Questions. Your Quiz will be different in many ways, but perhaps looking this over will calm you down if you're nervous.
