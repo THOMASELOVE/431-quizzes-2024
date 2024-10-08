@@ -26,7 +26,7 @@ During the semester, you will have two quizzes to complete. Each quiz is taken o
 
 ## General Information About the Quizzes
 
-1. Quizzes typically involve 20-30 questions. 
+1. Quizzes typically involve 25-35 questions. 
 2. The questions are not arranged in any particular order, and you should answer all questions.
 3. All questions involve relatively short responses, sometimes after working through a detailed analysis.
 4. You will have the opportunity to edit your responses after completing the Quiz, but this must be completed by the deadline.
