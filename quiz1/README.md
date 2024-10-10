@@ -2,7 +2,7 @@
 
 ## Instructions
 
-- [Here is the PDF](https://github.com/THOMASELOVE/431-quizzes-2024/blob/main/quiz1/431-2024-quiz1-first5pagesonly.pdf) of Quiz 1 instructions (all 32 pages will eventually appear.)
+- [Here is the PDF](https://github.com/THOMASELOVE/431-quizzes-2024/blob/main/quiz1/431-2024-quiz1-first5pagesonly.pdf) of Quiz 1 instructions (right now this is the first 5 pages, but by 5 PM, all 32 pages will be posted.)
     - The instructions specify which R packages I used in preparing the quiz and its sketch. That doesn't mean I used every package listed there, but it does mean I didn't use any packages not listed there.
     - This is an open book, open notes quiz. You are welcome to consult the materials provided on the course website and that we've been reading in the class, but you are not allowed to discuss the questions on this quiz with anyone other than Professor Love (not even the teaching assistants.) You will be required to complete a short affirmation that you have obeyed these rules as part of submitting the Quiz.
     - If you need clarification on a Quiz question, you have exactly one way of getting help, and that is to ask via email to **Thomas dot Love at case dot edu**.
