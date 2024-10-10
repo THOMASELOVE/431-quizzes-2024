@@ -2,13 +2,16 @@
 
 ## Instructions
 
-- [Here is a PDF](https://github.com/THOMASELOVE/431-quizzes-2024/blob/main/quiz1/431-2024-quiz1-first5pagesonly.pdf) of the first five pages (no questions are provided) of Quiz 1, so you can read the instructions in advance.
+- [Here is the PDF](https://github.com/THOMASELOVE/431-quizzes-2024/blob/main/quiz1/431-2024-quiz1-first5pagesonly.pdf) of Quiz 1 instructions (all 32 pages will eventually appear.)
     - The instructions specify which R packages I used in preparing the quiz and its sketch. That doesn't mean I used every package listed there, but it does mean I didn't use any packages not listed there.
-    - On Thursday at 5 PM, this document will be replaced by the complete 31-page PDF, which will include all of the questions, plus session information, as well as the instructions above.
+    - This is an open book, open notes quiz. You are welcome to consult the materials provided on the course website and that we've been reading in the class, but you are not allowed to discuss the questions on this quiz with anyone other than Professor Love (not even the teaching assistants.) You will be required to complete a short affirmation that you have obeyed these rules as part of submitting the Quiz.
+    - If you need clarification on a Quiz question, you have exactly one way of getting help, and that is to ask via email to **Thomas dot Love at case dot edu**.
+    - During the Quiz period (5 PM 2024-10-10 through 1 PM 2024-10-16) we will not answer questions about the Quiz through Campuswire or in TA office hours or in person. Instead, Dr. Love will respond to questions sent to the email address listed above. We promise to respond to all questions received before 10 AM on 2024-10-16 in a timely fashion.
+
 
 ## Data
 
-In our Shared Drive, in the Quiz 1 Materials folder (and the data subfolder within it), I will provide three data sets that are mentioned in the Quiz and which may be helpful to you.
+In our Shared Drive, in the Quiz 1 Materials folder (and the data subfolder within it), I have provided three data sets (called **fastfood.csv**, **hosp680.csv** and **oscar.csv**) that are mentioned in the Quiz and which may be helpful to you.
 
 In addition, another Quiz question uses a specific data file (identified in the Instructions) from [our 431-data page](https://github.com/THOMASELOVE/431-data/), and that file also has the potential to be useful to you.
  
