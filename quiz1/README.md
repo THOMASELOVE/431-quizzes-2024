@@ -1,5 +1,9 @@
 # Instructions and Materials for Quiz 1
 
+## Clarifications
+
+1. In Question 8, In question 8, if you feel that I didn't give you enough information to decide whether statements a, b and c are true or not, then you would select choice e. There is insufficient information to decide which of statements a-c are true. If you have enough information to make a decision, and decide that none of statements a, b and c are true, you would select d. None of these statements are true. So d and e are not the same thing.
+
 ## Instructions
 
 - [Here is the PDF](https://github.com/THOMASELOVE/431-quizzes-2024/blob/main/quiz1/431-2024-quiz1.pdf) of Quiz 1 instructions, including all 32 pages.
