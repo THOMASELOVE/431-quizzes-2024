@@ -20,7 +20,7 @@ During the semester, you will have two quizzes to complete. Each quiz is taken o
 | Quiz | Instructions and Links to Other Materials
 | :---: | :---------------------------------------------------------------------------
 1 | [Quiz 1 Instructions](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz1)
-2 | Quiz 2 Instructions *to come*
+2 | [Quiz 2 Instructions](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2)
 
 </div>
 
