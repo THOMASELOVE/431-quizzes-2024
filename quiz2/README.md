@@ -32,6 +32,7 @@ You will then receive a link at your CWRU email which will allow you to return t
 - [Classes](https://github.com/THOMASELOVE/431-classes-2024/tree/main) 1-24, including the Slides and the READMEs,
 - our [Course Book](https://thomaselove.github.io/431-book/) (sections 1-20),
 - Spiegelhalter's *Art of Statistics*,
+- The 2019 Statement from the American Statistical Association entitled "[Moving to a World beyond p < 0.05](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2019.1583913)" by Wasserstein, Schirm, and Lazar (specifically, Sections 1-6 on pages 1-10)
 - [R4DS](https://r4ds.hadley.nz/) Sections 1-8, 10-11, 16 and 28 
 - [Labs](https://github.com/THOMASELOVE/431-labs-2024/blob/main/README.md) 1-6
 - our [Minute Papers](https://github.com/THOMASELOVE/431-minute-2024) after classes 3, 5, 7, 11, 13, 18, 21 and 23
