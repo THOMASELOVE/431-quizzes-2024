@@ -10,7 +10,7 @@
 
 ## Data
 
-In our Shared Drive, in the Quiz 2 Materials folder (and the data subfolder within it), I have provided five data sets that are mentioned in the Quiz and which may be helpful to you.
+In our Shared Drive, in the Quiz 2 Materials folder (and the data subfolder within it), I have provided six data files that are mentioned in the Quiz and which may be helpful to you. You'll also [find them here](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2/data).
 
 ## Google Form Answer Sheet
 
