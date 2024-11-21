@@ -10,7 +10,18 @@
 
 ## Data
 
-In our Shared Drive, in the Quiz 2 Materials folder (and the data subfolder within it), I have provided six data files that are mentioned in the Quiz and which may be helpful to you. You'll also [find them here](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2/data).
+In our Shared Drive, in the Quiz 2 Materials folder (and the data subfolder within it), I have provided six data files that are mentioned in the Quiz and which may be helpful to you. You'll also [find them here](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2/data). The data are also on [our 431-data page](https://github.com/THOMASELOVE/431-data), if you prefer grabbing them there.
+
+The six data files for Quiz 2 are:
+
+File Name | Rows | Columns | First Mentioned
+:--------------- | ------: | -------: | -----:
+beds1.csv | 102 | 3 | Question 23
+beds2.csv | 51 | 3 | Question 23
+nh_adult750.Rds | 750 | 16 | Question 6
+nnyfs.Rds | 1518 | 45 | Question 10
+projA23.xlsx | 42 | 4 | Question 19
+surveyA.xlsx | 603 | 3 | Question 17
 
 ## Google Form Answer Sheet
 
