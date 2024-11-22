@@ -1,5 +1,10 @@
 # Instructions and Materials for Quiz 2
 
+## Revisions to Quiz 2 since its original release on 2024-11-21.
+
+1. fixed 2024-11-22: Question 3: fixed typo in first sentence: "on-site" rather than "on-side".
+2. fixed 2024-11-22: Question 25: fixed typo: name of the outcome is `out`, not `outcome`.
+
 ## Instructions
 
 - Here is a [PDF of all 31 pages of the Quiz 2 instructions](https://github.com/THOMASELOVE/431-quizzes-2024/blob/main/quiz2/431-2024-quiz2.pdf). 
