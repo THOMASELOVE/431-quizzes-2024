@@ -10,6 +10,8 @@
     - in Question 21 part b, added note to indicate that your predicted number of lines should be rounded to zero decimal places.
 5. fixed 2024-11-22: Question 23: fixed typo in option b, where the dataset was incorrectly named. It is now `beds1` there, as it is in options a and c.
 
+The [current version of the Quiz 2 PDF](https://github.com/THOMASELOVE/431-quizzes-2024/blob/main/quiz2/431-2024-quiz2.pdf) includes all of these changes, as does the [Answer Form](https://bit.ly/431-2024-quiz2-form).
+
 ## Instructions
 
 - Here is a [PDF of all 31 pages of the Quiz 2 instructions](https://github.com/THOMASELOVE/431-quizzes-2024/blob/main/quiz2/431-2024-quiz2.pdf). 
