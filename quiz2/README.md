@@ -4,6 +4,11 @@
 
 1. fixed 2024-11-22: Question 3: fixed typo in first sentence: "on-site" rather than "on-side".
 2. fixed 2024-11-22: Question 25: fixed typo: name of the outcome is `out`, not `outcome`.
+3. fixed 2024-11-22: Question 19: added note to use 1000 bootstrap replications in options A and C.
+4. fixed 2024-11-22: Question 21:
+    - in Question 21 part a, dropped the misleading note on the Answer Form. Your regression equation should include the transformation you proposed in Question 20.
+    - in Question 21 part b, added note to indicate that your predicted number of lines should be rounded to zero decimal places.
+5. fixed 2024-11-22: Question 23: fixed typo in option b, where the dataset was incorrectly named. It is now `beds1` there, as it is in options a and c.
 
 ## Instructions
 
